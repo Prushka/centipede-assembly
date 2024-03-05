@@ -5,4 +5,6 @@
     * 256 pixels width and 256 pixels height
 2. Assemble and run the program
 
+Wikipedia: https://en.wikipedia.org/wiki/Centipede_(video_game)
+
 ![alt text](static/s.gif?raw=true "Demo")
